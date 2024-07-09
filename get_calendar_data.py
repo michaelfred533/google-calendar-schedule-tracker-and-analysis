@@ -261,6 +261,3 @@ if __name__ == "__main__":
     print("...finished")
 
 
-## NOTES ---------------
-
-# Add KPIs, need Measure, Tager, Frequency, Source (this tool)
